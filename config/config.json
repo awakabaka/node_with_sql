@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "cleveroad",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "OperatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "cleveroad",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "OperatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "cleveroad",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "OperatorsAliases": false
+  }
+}
